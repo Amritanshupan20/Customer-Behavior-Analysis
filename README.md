@@ -147,7 +147,7 @@ The interactive dashboard includes:
 
 > **Power BI Dashboard**
 
-(Add your dashboard screenshot here)
+
 
 ```
 images/dashboard.png
@@ -173,7 +173,7 @@ images/dashboard.png
 Integrated M.Sc. Mathematics  
 Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/amritanshupan20
 
 ---
 
