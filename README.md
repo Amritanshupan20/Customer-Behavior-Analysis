@@ -143,15 +143,13 @@ The interactive dashboard includes:
 
 ---
 
+
+
 ## 📷 Project Preview
 
-> **Power BI Dashboard**
+### Power BI Dashboard
 
-
-
-```
 ![Power BI Dashboard](dashboard.png)
-```
 
 ---
 
