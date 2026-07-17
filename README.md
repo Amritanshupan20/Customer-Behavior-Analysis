@@ -150,7 +150,7 @@ The interactive dashboard includes:
 
 
 ```
-images/dashboard.png
+![Power BI Dashboard](dashboard.png)
 ```
 
 ---
